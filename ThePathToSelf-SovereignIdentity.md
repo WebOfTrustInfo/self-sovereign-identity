@@ -146,6 +146,8 @@ The following terms are relevant to this article. These are just a subset of the
 
 Thanks to various people who commented on early drafts of this article. Some of their suggestions were used word for word, some were adapted to the text, and everything was carefully considered. The most extensive revisions came from comments by Shannon Appelcline, Dave Crocker, Anil John, and Drummond Reed. Other commentators and contributors include: Doc Searls, Kaliya Young, Devon Loffreto, Greg Slepak, Alex Fowler, Fen Labalme, Justin Netwon, Markus Sabadello, Adam Back, Ryan Shea, Manu Sporney, and Peter Todd. I know much of the commentary didn't make it into this draft, but the discussion on this topic continues…
 
+Image by John Hain licensed CC0 https://pixabay.com/en/identity-mask-disguise-mindset-510866/
+
 The opinions in this article are my own, not my employer's nor necessarily the opinions of those that have offered commentary on it.
 
 [^1]: Jon Callas, Phil Zimmerman. 2015. “The PGP Paradigm”. #RebootingWebOfTrust Design Workshop. https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/topics-and-advance-readings/PGP-Paradigm.pdf.
