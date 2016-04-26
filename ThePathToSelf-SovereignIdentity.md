@@ -149,26 +149,49 @@ Thanks to various people who commented on early drafts of this article. Some of 
 The opinions in this article are my own, not my employer's nor necessarily the opinions of those that have offered commentary on it.
 
 [^1]: Jon Callas, Phil Zimmerman. 2015. “The PGP Paradigm”. #RebootingWebOfTrust Design Workshop. https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/topics-and-advance-readings/PGP-Paradigm.pdf.
+
 [^2]: Appelcline, Crocker, Farmer, Newton. 2015. “Rebranding the Web of Trust”. #RebootingWebOfTrust Design Workshop. https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/rebranding-web-of-trust.pdf
+
 [^3]: Ellison, Carl. 1996. “Establishing Identity without Certification Authorities”. 6th USENIX Security Symposium. http://irl.cs.ucla.edu/~yingdi/pub/papers/Ellison-OldFriend-USENIX-Security-1996.pdf.
+
 [^4]: Ellison, C. 1999. “RFC 2692: SPKI Requirements”. IETF. https://tools.ietf.org/html/rfc269
+
 [^5]: Ellison, C., et. al. 1999. “RFC 2693: SPKI Certificate Theory”. IETF. https://tools.ietf.org/html/rfc269
+
 [^6]: Jordon, Ken, Jan Hauser, and Steven Foster. 2003. “The Augmented Social Network: Building Identity and Trust into the Next-Generation Internet”. Networking: A Sustainable Future. http://asn.planetwork.net/asn-archive/AugmentedSocialNetwork.pdf
+
 [^7]: Jøsang, Audun and Simon Pope. 2005. “User Centric Identity Management”. AusCERT Conference 2005. http://folk.uio.no/josang/papers/JP2005-AusCERT.pdf
+
 [^8]: Verifiable Claims Task Force. 2006. “[Editor Draft] Verifiable Claims Working Group Frequently Asked Questions”. W3C Technology and Society Domain. http://w3c.github.io/webpayments-ig/VCTF/charter/faq.htm
+
 [^9]: Gilbertson, Scott. 2011. “OpenID: The Web’s Most Successful Failure”. Webmonkey. http://www.webmonkey.com/2011/01/openid-the-webs-most-successful-failure
+
 [^10]: Hassine, Wafa Ben and Eva Galperine. “Changes to Facebook’s ‘Real Name’ Policy Still Don’t Fix the Problem”. EFF. https://www.eff.org/deeplinks/2015/12/changes-facebooks-real-names-policy-still-dont-fix-problem
+
 [^11]: Marlinspike, Moxie. 2012. “What is ‘Sovereign Source Authority’?” The Moxie Tongue. http://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html
+
 [^12]: Open Mustard Seed. 2013. “Open Mustard Seed (OMS) Framework). ID3. https://idcubed.org/open-platform/platform/
+
 [^13]: Marlinspike, Moxie. 2016. “Self-Sovereign Identity”. The Moxie Tongue. http://www.moxytongue.com/2016/02/self-sovereign-identity.html
+
 [^14]: Respect Network. 2016. “The Respect Trust Network v2.1”. oixnet.org. http://oixnet.org/wp-content/uploads/2016/02/respect-trust-framework-v2-1.pdf
+
 [^15]: Graydon, Carter. 2014. “Top Bitcoin Companies Propose the Windhover Principles – A New Digital Framework for Digital Identity, Trust and Open Data”. CCN. https://www.cryptocoinsnews.com/top-bitcoin-companies-propose-windhover-principles-new-digital-framework-digital-identity-trust-open-data/
+
 [^16]: Smith, Samuel M. and Khovratovich, Dmitry. 2016. “Identity System Essentials”. Evernym. http://www.evernym.com/assets/doc/Identity-System-Essentials.pdf
+
 [^17]: Dahan, Mariana and John Edge. 2015. “The World Citizen: Transforming Statelessness into Global Citizenship”. The World Bank. http://blogs.worldbank.org/ic4d/category/tags/self-sovereign-identity-systems
+
 [^18]: Identity Commons. 2007. “Claim”. IDCommons Wiki. http://wiki.idcommons.net/Claim
+
 [^19]: Christopher Allen. 2015. “The Four Kinds of Privacy”. Life With Alacrity blog. http://www.lifewithalacrity.com/2015/04/the-four-kinds-of-privacy.html
+
 [^20]: Cameron, Kim. 2005. “The Laws of Identity”. https://msdn.microsoft.com/en-us/library/ms996456.aspx
+
 [^21]: Respect Network. 2016. “The Respect Trust Network v2.1”. oixnet.org. http://oixnet.org/wp-content/uploads/2016/02/respect-trust-framework-v2-1.pdf
+
 [^22]: Verifiable Claims Task Force. 2006. “[Editor Draft] Verifiable Claims Working Group Frequently Asked Questions”. W3C Technology and Society Domain. http://w3c.github.io/webpayments-ig/VCTF/charter/faq.html
+
 [^22​]: Verifiable Claims Task Force. 2006. “[Editor Draft] Verifiable Claims Working Group Frequently Asked Questions”. W3C Technology and Society Domain. http://w3c.github.io/webpayments-ig/VCTF/charter/faq.html
+
 [^23]: "Definition of Credential". Dictionary.com. http://www.dictionary.com/browse/credential?s=t
