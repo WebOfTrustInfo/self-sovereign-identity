@@ -50,7 +50,7 @@ The next major advancement for digital identity occurred at the turn of the cent
 
 Microsoft’s Passport (1999) initiative was one of the first. It imagined _federated identity_, which allowed users to utilize the same identity on multiple sites. However, it put Microsoft at the center of the federation, which made it almost as centralized as traditional authorities.
 
-In response Sun Microsoft organized the Liberty Alliance  (2001). They resisted the idea of centralized authority, instead creating a "true" federation, but the result was instaed an oligarchy: the power of centralized authority was now divided among several powerful entities.
+In response Sun Microsoft organized the Liberty Alliance  (2001). They resisted the idea of centralized authority, instead creating a "true" federation, but the result was instead an oligarchy: the power of centralized authority was now divided among several powerful entities.
 
 Federation improved on the problem of balkanization: users could wander from site to site under the system. However, each individual site remained an authority.
 
