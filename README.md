@@ -8,6 +8,8 @@ Articles and documents associated with designing and implementing identity techn
 
 ## Elsewhere
 
-* [A Technlogy-Free Definition of Self-Sovereign Identity] (https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) Topic paper for Rebooting Web of Trust III by [Joe Andrieu](http://www.github.com/jandrieu)
+* [A Technlogy-Free Definition of Self-Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) Topic paper for Rebooting Web of Trust III by [Joe Andrieu](http://www.github.com/jandrieu)
 
-* [Identity and Digital Self-Sovereignty] (https://medium.com/learning-machine-blog/identity-and-digital-self-sovereignty-1f3faab7d9e3#.3jcgvnbok) Blog post by [Natalie Smolenski](https://medium.com/@nsmolenski)
+* [Identity and Digital Self-Sovereignty](https://medium.com/learning-machine-blog/identity-and-digital-self-sovereignty-1f3faab7d9e3#.3jcgvnbok) Blog post by [Natalie Smolenski](https://medium.com/@nsmolenski)
+
+* [Self-Sovereign Bill of Rights](self-sovereign-identity-bill-of-rights.md) - lifeID (founded by [Chris Boscolo](https://github.com/cboscolo) adapted the 10 Principles of Self-Sovereign Identity into a [Bill of Rights](https://medium.com/@lifeID_io/lifeid-self-sovereign-identity-bill-of-rights-d2acafa1de8b) that all self-sovereign identity solution should uphold.
