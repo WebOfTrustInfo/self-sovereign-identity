@@ -4,8 +4,8 @@ I've extracted the "Core Characteristics of Sovereign Identity" from Joe Andrieu
 
 These are the three fundamental characteristics of  self‐sovereign identity. 
 
-### CONTROL 
-#### Self‐sovereign identities are controlled by the individual 
+#### CONTROL 
+##### Self‐sovereign identities are controlled by the individual 
 
 * **Self‐generatable and Independent:** Individuals must be able to create identity information without asking for permission and be able to assert identity information from any authority. The resulting identity must have the same technical reliability as those provided by well‐known, “official” sources. The observer, of course, is always free to decide whether or not a given piece of information is meritorious, but the information must be able to be verified as a non‐repudiatable statement of correlation using exactly the same mechanisms regardless of source. Further, individuals must be able to present self‐generated identity information without disclosing that the authority in the claim is the subject of the claim. 
 * **Opt‐in**: The affordance for asserting identity information starts with the individual. While an individual may present claims from known or accepted third party authorities, it is the individual who asserts that the claim applies to them. Self‐sovereign identities begin with the will of the individual, with the intentional presentation of identity information. 
@@ -14,14 +14,14 @@ These are the three fundamental characteristics of  self‐sovereign identity.
 * **Opt‐out**: Individuals should be able to opt‐out of identifying records post‐facto as a matter of course.  People should be able to stop the use of a correlating identity information by request. Some transactions necessarily require long term retention of identity information, such as financial transactions, purchases, and shipments. Actions that create permanent records should be clearly marked and communicated such that the retention is expected and understood by the average person. All other actions which leverage a self‐sovereign identity should be de‐correlated on‐demand and said identifiers should no longer be used to correlate that individual across contexts. 
 * **Recoverable**: Sovereign identities must be robust enough to be recovered even if hard drives are lost, wallets stolen, or birth certificates lost in a fire. Self‐sovereign identities must provide a way for individuals to recover and reassert that existing identify information applies to them even in the face of complete loss of credentials. This may be challenging given current technical proposals, but the point of this paper is to explore the non‐technical requirements of a self‐sovereign identity. To fully address the needs of UN Sustainable Development Goal 16.9, identity assurance can’t depend on pieces of paper, devices, or other artifacts that can be lost, stolen, destroyed, and falsified. 
 
-### ACCEPTANCE 
-#### Self‐sovereign identities are accepted wherever observers correlate individuals across contexts. 
+#### ACCEPTANCE 
+##### Self‐sovereign identities are accepted wherever observers correlate individuals across contexts. 
 
 * **Standard**: There is an open, public standard managed through a formal standards body, free to use by anyone without financial or intellectual encumbrance. Simple The core standard (schema, serialization, and protocols) must be atomically minimal, providing the barest data set, allowing complexity to emerge not from a complicated data model but from a multiplicity of information types, authorities, and observations. 
 * **Non‐repudiatable**: Individual claims should be cryptographically signed to assure non‐repudiatable statements of correlation. Long term, public and semi‐public ledgers should be used to record claims that become statistically impossible to falsify over time. Self‐sovereign identities, at a minimum depend on cryptographic assurances, and most likely will be further enabled by non‐repudiatable public ledgers. 
 * **Reliable**: Access to self‐sovereign identities must be at least as reliable as access to the Internet. It should not rely on any individual or group of centralized servers, connections, or access technologies. Substantially Equivalent Above all, self‐sovereign identities must meet the needs of legacy identity observers at least as well as current solutions. If the core architecture is inherently less capable than existing approaches there is little hope of systemic adoption. 
 
-### ZERO COST 
+#### ZERO COST 
 Finally, any proposed standard for self‐sovereign identity must be adoptable at absolutely minimal cost. Not only must it be free of licensing encumbrances, it must be implementable with readily available, inexpensive, commodity hardware running common operating systems. If it can’t be achieved using today’s commodity products, then we must help manufacturers incorporate what we need.  
 
 In order to reach every last person on the planet—the explicit target of UN Sustainable Development Goal 16.9—self‐sovereign identity must be realizable at massive scale with close to zero marginal cost. The systems we use to make sense of the resulting identity transactions will provide more than enough consulting, software, and hardware revenue to finance the development of the core enabling technology. Just as the web browser was a zero cost entry into a vast economic and innovation engine of the world‐wide web, so too must self‐sovereign identity begin with the most cost‐effective on‐ramp that can be engineered. 
