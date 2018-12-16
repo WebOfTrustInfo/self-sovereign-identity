@@ -1,6 +1,6 @@
 I've extracted the "Core Characteristics of Sovereign Identity" from [Joe Andrieu](https://github.com/jandrieu)'s [A Technology‐Free Definition of Self‐Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) for easier comparison with the [Ten Principles of Self Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md):
 
-**Control. Acceptance. Zero Cost.**
+### Control. Acceptance. Zero Cost.
 
 These are the three fundamental characteristics of  self‐sovereign identity. 
 
