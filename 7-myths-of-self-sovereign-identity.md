@@ -1,5 +1,5 @@
 # 7 Myths of Self Sovereign Identity
-Taken from Tim Ruff's, [October, medium.com post](https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1):
+Taken from Tim Ruff's [October blog post](https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1):
 
 1. Self-sovereign means self-attested.
 2. SSI attempts to reduce government’s power over an identity owner.
