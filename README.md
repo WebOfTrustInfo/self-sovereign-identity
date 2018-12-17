@@ -18,5 +18,5 @@ Articles and documents associated with designing and implementing identity techn
 
 * [Self-Sovereign Bill of Rights](self-sovereign-identity-bill-of-rights.md) - lifeID (founded by [Chris Boscolo](https://github.com/cboscolo)) adapted the 10 Principles of Self-Sovereign Identity into a [Bill of Rights](https://medium.com/@lifeID_io/lifeid-self-sovereign-identity-bill-of-rights-d2acafa1de8b) that all self-sovereign identity solution should uphold.
 
-* [A Roadmap for SSI](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md) from Rebooting the web of trust, Spring 2018. 
+* [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md) from Rebooting the web of trust, Spring 2018. 
   > This document proposes the formation of a short-term team to develop consistent messaging for the Self-Sovereign Identity (SSI) market.
