@@ -4,13 +4,14 @@ Articles and documents associated with designing and implementing identity techn
 ## Local to this repository
 * [The Path to Self-Sovereign Identity](ThePathToSelf-SovereignIdentity.md) - The original article on Self-Sovereign Identity and the 10 Principles of Self-Sovereign Identity as published on 2016-04-25 in github and at [Life With Alacrity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) by [Christopher Allen](http://www.github.com/christophera)
 
-* [10 Principles of Self-Sovereign Identity](self-sovereign-identity-principles.md) - The Self-Sovereign Identity Principles, in progress of being revised.
+  * [10 Principles of Self-Sovereign Identity](self-sovereign-identity-principles.md) - The Self-Sovereign Identity Principles, in progress of being revised.
+
+  * [Self-Sovereign Bill of Rights](self-sovereign-identity-bill-of-rights.md) - lifeID (founded by [Chris Boscolo](https://github.com/cboscolo)) adapted the 10 Principles of Self-Sovereign Identity into a [Bill of Rights](https://medium.com/@lifeID_io/lifeid-self-sovereign-identity-bill-of-rights-d2acafa1de8b) that all self-sovereign identity solution should uphold.
 
 * [Core Characteristics of Self Sovereign Identity](characteristics-of-sovereign-identity.md) - from *A Technology-Free Definition of SSI* for review and comparison against *10 Principles of SSI*
 
 * [7 Myths of Self Sovereign Identity](7-myths-of-self-sovereign-identity.md) - from Timothy Ruff's [blog post](https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1).
 
-* [Self-Sovereign Bill of Rights](self-sovereign-identity-bill-of-rights.md) - lifeID (founded by [Chris Boscolo](https://github.com/cboscolo)) adapted the 10 Principles of Self-Sovereign Identity into a [Bill of Rights](https://medium.com/@lifeID_io/lifeid-self-sovereign-identity-bill-of-rights-d2acafa1de8b) that all self-sovereign identity solution should uphold.
 
 
 ## Elsewhere
