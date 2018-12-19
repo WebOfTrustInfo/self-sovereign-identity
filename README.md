@@ -29,10 +29,13 @@ Articles and documents associated with designing and implementing identity techn
 
 * [How to Convince Dad* of the Importance of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.md) (\*and your sister and your daughter and your best friend and your nephew) (SSI Use-Cases)
 
-* [A Gentle Guide to Self Sovereign Identity](https://bitsonblocks.net/2017/05/17/gentle-introduction-self-sovereign-identity/) has a section called "How would self-sovereign identity work for the user?" that could be "modularized" and improved upon.
+* [A Gentle Guide to Self Sovereign Identity](https://bitsonblocks.net/2017/05/17/gentle-introduction-self-sovereign-identity/) 
 
 * [Identity and the quest for Self Sovereign Identity - Daniel Hardman](https://www.youtube.com/watch?v=iqmY_h49vPs)
 
 * [Self Sovereign Identity and the MyData model from Finland - Antti 'Jogi' Poikola](https://www.youtube.com/watch?v=amq88XmWaNs)
 
 * [Self-Sovereign Identity (SSI) and Open Source – Richard Esplin from SSIMeetup](http://ssimeetup.org/self-sovereign-identity-ssi-open-source-richard-esplin-webinar-16/)
+
+* [SSIMeetup](http://ssimeetup.org/) ([slideshare](https://www.slideshare.net/SSIMeetup/presentations)) ([youtube](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og))
+-SSI Meetup is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. 
