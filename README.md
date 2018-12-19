@@ -10,7 +10,7 @@ Articles and documents associated with designing and implementing identity techn
 
   * [Core Characteristics of Self Sovereign Identity](characteristics-of-sovereign-identity.md) - from *A Technology-Free Definition of SSI* for review and comparison against *10 Principles of SSI*
 
-  * [Schutte's Take](https://github.com/infominer33/self-sovereign-identity/blob/master/Schutte-on-SSI.md) which offers criticism on the 10 Principles.
+  * [Schutte's Take](https://github.com/infominer33/self-sovereign-identity/blob/master/Schutte-on-SSI.md) offers criticism on the 10 Principles.
 
 * [7 Myths of Self Sovereign Identity](7-myths-of-self-sovereign-identity.md) - from Timothy Ruff's [blog post](https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1).
 
