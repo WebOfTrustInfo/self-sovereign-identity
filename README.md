@@ -38,4 +38,4 @@ Articles and documents associated with designing and implementing identity techn
 * [Self-Sovereign Identity (SSI) and Open Source – Richard Esplin from SSIMeetup](http://ssimeetup.org/self-sovereign-identity-ssi-open-source-richard-esplin-webinar-16/)
 
 * [SSIMeetup](http://ssimeetup.org/) ([slideshare](https://www.slideshare.net/SSIMeetup/presentations)) ([youtube](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og))
--SSI Meetup is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. 
+- SSI Meetup is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. 
