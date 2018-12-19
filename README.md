@@ -30,3 +30,7 @@ Articles and documents associated with designing and implementing identity techn
 * [How to Convince Dad* of the Importance of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.md) (\*and your sister and your daughter and your best friend and your nephew) (SSI Use-Cases)
 
 * [A Gentle Guide to Self Sovereign Identity](https://bitsonblocks.net/2017/05/17/gentle-introduction-self-sovereign-identity/) has a section called "How would self-sovereign identity work for the user?" that could be "modularized" and improved upon.
+
+* [Identity and the quest for Self Sovereign Identity - Daniel Hardman](https://www.youtube.com/watch?v=iqmY_h49vPs)
+
+* [Self Sovereign Identity and the MyData model from Finland - Antti 'Jogi' Poikola](https://www.youtube.com/watch?v=amq88XmWaNs)
