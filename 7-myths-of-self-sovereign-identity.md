@@ -1,6 +1,6 @@
 ### 7 Myths of Self-Sovereign-Identity
 
-This October, Timmothy Ruff of Evernym published the [7 Myths of Self-Sovereign Identity](https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1) to clear up common misconceptions about SSI. That post was an excellent start, and a good model to build upon. What are the myths that need busted? I briefly summarized Timothy's 7 myths as a jumping off point. -infominer33
+This October, Evernym's Timmothy Ruff wrote about the [7 Myths of Self-Sovereign Identity](https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1), clearing up common misconceptions about SSI. That post was an excellent start, and a good model to build upon. What are the myths that need busted? I briefly summarized Timothy's 7 myths as a jumping off point. -infominer33
 
 #### Myth 1: Self-sovereign means self-attested.
 
