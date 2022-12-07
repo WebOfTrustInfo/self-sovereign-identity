@@ -81,9 +81,9 @@ User-centric designs turned centralized identities into interoperable federated 
 
 This is the heart of *self-sovereign identity*, a term that’s coming into increased use in the ‘10s. Rather than just advocating that users be at the center of the identity process, self-sovereign identity requires that users be the rulers of their own identity. 
 
-One of the first references to identity sovereignty occurred in February 2012, when developer Moxie Marlinspike wrote about “Sovereign Source Authority”[^11]. He said that individuals “have an established Right to an ‘identity’”, but that national registration destroys that sovereignty. Some ideas are in the air, so it’s no surprise that almost simultaneously, in March 2012, Patrick Deegan began work on Open Mustard Seed, an open-source framework that gives users control of their digital identity and their data in decentralized systems[^12]. It was one of several "personal cloud" initiatives that appeared around the same time.
+One of the first references to identity sovereignty occurred in February 2012, when developer Devon Loffreto wrote about “Sovereign Source Authority”[^11]. He said that individuals “have an established Right to an ‘identity’”, but that national registration destroys that sovereignty. Some ideas are in the air, so it’s no surprise that almost simultaneously, in March 2012, Patrick Deegan began work on Open Mustard Seed, an open-source framework that gives users control of their digital identity and their data in decentralized systems[^12]. It was one of several "personal cloud" initiatives that appeared around the same time.
 
-Since then, the idea of self-sovereign identity has proliferated. Marlinspike has blogged how the term has evolved[^13]. As a developer, he shows one way to address self-sovereign identity: as a *mathematical policy*, where cryptography is used to protect a user’s autonomy and control. However, that’s not the only model. Respect Network instead addresses self-sovereign identity as a *legal policy*; they define contractual rules and principles that members of their network agree to follow[^14]. The Windhover Principles For Digital Identity, Trust and Data[^15] and Everynym’s Identity System Essentials[^16] offer some additional perspectives on the rapid advent of self-sovereign identity since 2012.
+Since then, the idea of self-sovereign identity has proliferated. Loffreto has blogged how the term has evolved[^13]. As a developer, he shows one way to address self-sovereign identity: as a *mathematical policy*, where cryptography is used to protect a user’s autonomy and control. However, that’s not the only model. Respect Network instead addresses self-sovereign identity as a *legal policy*; they define contractual rules and principles that members of their network agree to follow[^14]. The Windhover Principles For Digital Identity, Trust and Data[^15]and Everynym’s Identity System Essentials[^16] offer some additional perspectives on the rapid advent of self-sovereign identity since 2012.
 
 In the last year, self-sovereign identity has also entered the sphere of *international policy*[^17]. This has largely been driven by the refugee crisis that has beset Europe, which has resulted in many people lacking a recognized identity due to their flight from the state that issued their credentials. However, it’s a long-standing international problem, as foreign workers have often been abused by the countries they work in due to the lack of state-issued credentials.
 
@@ -170,11 +170,11 @@ The opinions in this article are my own, not my employer's nor necessarily the o
 
 [^10]: Hassine, Wafa Ben and Eva Galperine. “Changes to Facebook’s ‘Real Name’ Policy Still Don’t Fix the Problem”. EFF. https://www.eff.org/deeplinks/2015/12/changes-facebooks-real-names-policy-still-dont-fix-problem
 
-[^11]: Marlinspike, Moxie. 2012. “What is ‘Sovereign Source Authority’?” The Moxie Tongue. http://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html
+[^11]: Loffreto, Devon. 2012. “What is ‘Sovereign Source Authority’?” The Moxie Tongue. http://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html
 
 [^12]: Open Mustard Seed. 2013. “Open Mustard Seed (OMS) Framework). ID3. https://idcubed.org/open-platform/platform/
 
-[^13]: Marlinspike, Moxie. 2016. “Self-Sovereign Identity”. The Moxie Tongue. http://www.moxytongue.com/2016/02/self-sovereign-identity.html
+[^13]: Loffreto, Devon. 2016. “Self-Sovereign Identity”. The Moxie Tongue. http://www.moxytongue.com/2016/02/self-sovereign-identity.html
 
 [^14]: Respect Network. 2016. “The Respect Trust Network v2.1”. oixnet.org. http://oixnet.org/wp-content/uploads/2016/02/respect-trust-framework-v2-1.pdf
 
